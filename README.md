@@ -81,7 +81,7 @@
      3- Initial distribution skewed, requiring outlier removal and normalization.
 
 
-     Visualizations: <a>Visualizations.png </a>
+     Visualizations: <a>[Visualizations.png](https://github.com/amer-deiri/Optimizing-the-house-price-forecast-in-California/blob/main/Visualizations.png) </a>
 
 8. Data Analysis
 
