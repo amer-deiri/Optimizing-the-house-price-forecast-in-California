@@ -162,10 +162,10 @@
 12. References
 
     1. California Housing Dataset: scikit-learn Documentation
-    https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset
+    <a>[Documentation](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)</a>
     
-    2. scikit-learn Library: https://scikit-learn.org/stable/
+    2. scikit-learn Library: <a>[Library](https://scikit-learn.org/stable/)</a>
     
-    3. XGBoost Documentation: https://xgboost.readthedocs.io/en/stable/
+    3. XGBoost Documentation: <a>[XGBoostDocument](https://xgboost.readthedocs.io/en/stable/) </a>
 
     
