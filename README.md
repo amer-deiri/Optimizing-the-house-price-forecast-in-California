@@ -83,6 +83,8 @@
 
      Visualizations: <a>[Visualizations.png](https://github.com/amer-deiri/Optimizing-the-house-price-forecast-in-California/blob/main/Visualizations.png) </a>
 
+     ![Visualizations](images/Visualizations.png)
+
 8. Data Analysis
 
    Models Evaluated:
